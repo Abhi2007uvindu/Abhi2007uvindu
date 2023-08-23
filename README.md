@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abhi2007uvindu
-- 👀 I’m interested in ...photo editing
+- 👋 Hi, I’m @Abhi2007
+- 👀 I’m interested in ...photo editing,web developing,ict,cybersecurity  and  AI
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...in grade 11
+- 💞️ I’m looking to collaborate on ...no one
 - 📫 How to reach me ...
 
 <!---
